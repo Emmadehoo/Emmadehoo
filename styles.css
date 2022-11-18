@@ -51,9 +51,37 @@ body{
     justify-content: space-evenly;
 }
 .action {
-    height: 48px;
+    height: 100px;
     width: 48px;
     background-color: aquamarine;
     border-radius: 50px;
     border: 1px solid black;
+}
+.text{
+    height: 125px;
+    width: 327px;
+    border-radius: 0px;
+    text-transform: capitalize;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+p .text1{
+    height: 57px;
+    width: 295px;
+    border-radius: nullpx;
+}
+.box1{
+    height: 474px;
+    width: 327px;
+    border-radius: 0px;
+}
+.tin{
+    height: 222px;
+    width: 327px;
+    border-radius: 8px;
+    padding: 16px;
 }
