@@ -1,0 +1,59 @@
+body{
+    background-color: silver;
+    width: 375px;
+    padding: 64px 24px;
+    text-align: center;
+    border: 2px solid black;
+}
+.logo{
+    background-color: gray;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+    height: 48px;
+    width: 375px;
+    border-radius: 0px;
+}
+#logo{
+    height: 48px;
+    width: 114px;
+    border-radius: 0px;
+    padding: 10px 12px 10px 12px;
+}
+.nav i{
+    height: 40px;
+    width: 40px;
+    border-radius: 8px;
+    padding: 8px;
+}
+.nav h3{
+    margin: 1px 12px;
+}
+.main{
+    height: 120px;
+    width: 327px;
+    border-radius: 0px;
+}
+.container{
+    height: 50px;
+    width: 303px;
+    border-radius: 0px;
+    padding: 30px;
+}
+.media-icons{
+    height: 20px;
+    width: 170px;
+    padding: 30px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.action {
+    height: 48px;
+    width: 48px;
+    background-color: aquamarine;
+    border-radius: 50px;
+    border: 1px solid black;
+}
