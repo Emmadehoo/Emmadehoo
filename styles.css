@@ -69,6 +69,13 @@ body{
     letter-spacing: 0em;
     text-align: center;
 }
+.body2{
+    background-color: rgb(217, 239, 239);
+    padding: 20px;
+    margin-top: 90px;
+    display: flex;
+    flex-direction:column;
+}
 p .text1{
     height: 57px;
     width: 295px;
@@ -77,11 +84,17 @@ p .text1{
 .box1{
     height: 474px;
     width: 327px;
-    border-radius: 0px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    padding-top: 250px;
 }
 .tin{
     height: 222px;
-    width: 327px;
+    width: 295px;
     border-radius: 8px;
     padding: 16px;
+    padding-top: 200px;
+    padding-bottom: 10px;
+    background-color: brown;
+    margin: 20px auto;
 }
