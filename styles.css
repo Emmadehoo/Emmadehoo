@@ -79,7 +79,8 @@ body{
 p .text1{
     height: 57px;
     width: 295px;
-    border-radius: nullpx;
+    border-radius: 20px;
+    background-color: chartreuse;
 }
 .box1{
     height: 474px;
