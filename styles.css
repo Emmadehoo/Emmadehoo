@@ -76,11 +76,19 @@ body{
     display: flex;
     flex-direction:column;
 }
-p .text1{
+.text1{
     height: 57px;
     width: 295px;
     border-radius: 20px;
     background-color: chartreuse;
+    //styleName: Theme 2 / H4;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+
 }
 .box1{
     height: 474px;
@@ -90,12 +98,12 @@ p .text1{
     padding-top: 250px;
 }
 .tin{
-    height: 222px;
+    height: 100px;
     width: 295px;
     border-radius: 8px;
     padding: 16px;
-    padding-top: 200px;
+    padding-top: 2px;
     padding-bottom: 10px;
-    background-color: brown;
+    background-color: whitesmoke;
     margin: 20px auto;
 }
